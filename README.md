@@ -1,4 +1,4 @@
-# Voice Detection 101
+# Speech to Text 101
 
 A source code for voice detection functionality
 
